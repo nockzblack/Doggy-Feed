@@ -6,7 +6,7 @@ Anyone cans improve the code from this project, I am open for new ideas or whate
 
 I want to mention that in that moment I only knew C (I didn't even know that I was coding in C XD) and I developed the hole proyect in Arduino Uno. 
 
-
+--------------------------------------------------------------------------------------------------------------------------
 
 Este es la parte del codigo que desarrolle cuando estaba en preparatoria. Se trata de una maquina que alimenta de manera automatica a tu macota (En especial perros).
 
