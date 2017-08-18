@@ -16,4 +16,3 @@ Quiero aclarar que en el momento en que se desarrollo el proyecto, yo solo sabia
 
 Los integrantes en ese proyecto fueron: Felix Saray, Heriberto Vargas, Juan Carlos Gonzalez, Hector Pelayo y Fernando Benavides.
 
-Yo como lider del proyecto desarrolle la parte del codigo en un 95%.
